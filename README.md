@@ -36,7 +36,11 @@ The language seen above in the "Basics" section of the website is intended to sh
 Still, the urgency of this problem isn't too problematic, which is why I evaluated this heuristic with a severity rating of 1. The methodology of categorization is horrible and will further be discussed in heuristic #7.
 
 #### #3 – User control and freedom
-Severity Rating: 
+Severity Rating: 2
+
+Psychology Today offers a pretty good job at ensuring that the user has control and freedom over exiting but fails to give users an easy undo action when it comes to clicking buttons and links. The majority of the buttons transfers the user to a different page rather than loading similar articles, which can be somewhat frustrating especially if the user is just browsing. In the example below, the "Look Inside" button takes the user to a completely different page, but this can be made more efficient by the utilization of a pop-up box of the magazine. 
+
+![Heuristic3](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%233.png)
 
 #### #4 – Consistency and standards
 Severity Rating: 
