@@ -82,9 +82,16 @@ However, in regards to searching topics, the website could do a better job in pr
 
 ![Heuristic_V3](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236_V3.png)
 
-
 #### #7 – Flexibility and efficiency of use
-Severity Rating:
+Severity Rating: 3
+
+I think the lack of a member profile just for common users make Psychology Today lag behind in comparison to other magazine websites, as it fails to provide users a more efficient experience when browsing. Because there are so many articles, it's very simple to lose track of what a user has read, and without using an account system, the only thing that gives any indication that you have read an article is the literal web browser's cache.
+
+Implementing a user account system would make it more interactive and engaging, all the while containing all of the memory of what the user has accessed, especially for a website that focuses itself on making human life simpler. In addition, it creates a community where people can comment about articles, which in turn increases website traffic.
+
+![Heuristic7](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%237.png)
+
+In the above example, there's no way of knowing you have read an article even after you've read it. Utilizing an account system can allow users to access the articles more efficiently by giving them a "history" list of what they've read and such.
 
 #### #8 – Aesthetic and minimalist design
 Severity Rating:
