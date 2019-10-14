@@ -2,7 +2,7 @@
 #### DGT HUM 150 SEM 2
 
 # Psychology Today 
-https://www.psychologytoday.com/us
+[Psychology Today](https://www.psychologytoday.com/us)
 
 Psychology Today is a magazine dedicated to making psychology accessible to the general public. The magazine's website aims to showcase therapy and health care professional directories and psychologist-written articles about the self.  
 
