@@ -76,11 +76,11 @@ Severity Rating: 1
 Psychology Today does an amazing job of ensuring that they utilize recognition when it comes to finding health care professionals and therapists in your area. Inputting a zipcode or city causes a drop-down list of locations that are affiliated with what the user is typing, minimizing the application of user memory.
 
 ![Heuristic6](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236.png)
-![Heuristic_V2](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236_V2.png)
+![Heuristic6_V2](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236_V2.png)
 
 However, in regards to searching topics, the website could do a better job in providing options as well, especially because they have so many subcategories in their Basics page. Searching "Healthcare" offers no suggestions, despite it being a specific subsection.
 
-![Heuristic_V3](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236_V3.png)
+![Heuristic6_V3](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%236_V3.png)
 
 #### #7 – Flexibility and efficiency of use
 Severity Rating: 3
@@ -94,10 +94,34 @@ Implementing a user account system would make it more interactive and engaging, 
 In the above example, there's no way of knowing you have read an article even after you've read it. Utilizing an account system can allow users to access the articles more efficiently by giving them a "history" list of what they've read and such.
 
 #### #8 – Aesthetic and minimalist design
-Severity Rating:
+Severity Rating: 2
+
+Psychology Today is pretty consistent in being up-to-date with modern UI interfaces, utilizing flat colors as part of their visual identity branding system. Still, despite the nice aesthetic colors, the website fails to follow through with the latter: minimalism. The whole website is so cluttered and filled with miscellaneous information that really makes it difficult for users to pinpoint what to focus on. 
+
+![Heuristic8](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%238.png)
+
+The different sections are categorized so horribly, as it fails to draw attention to any one section. Clustering these three sections together on one webpage is too much information to handle, and the overall layout currently is counterproductive and ironic given the implementation of the "See More" buttons. 
 
 #### #9 – Help users recognize, diagnose, and recover from errors
-Severity Rating:
+Severity Rating: 1
+
+The website does an excellent job of fixing errors when they come up when it comes to user registration. When creating an account for psychology professionals, if the username is taken, it immediately turns the text box red, signifying that the username is not available. In addition, they added a hyperlink for logging in if you are already a member (utilizing Nielsen's Heuristic #7). 
+
+![Heuristic9](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%239.png)
+
+In addition, when inputting a wrong password or username, it explicitly pops up what the issue is when logging in rather than making the user question if the ID or password was incorrect.
+
+![Heuristic9_V2](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%239_V2.png)
+![Heuristic9_V3](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%239_V3.png)
+
+I decided to give this heuristic a severity rating of 1, primarily because of the minor issue mentioned in heuristic #5 about the failure of notifying users about whether usernames and/or emails were acceptable.
 
 #### #10 – Help and documentation
-Severity Rating:
+Severity Rating: 2
+
+When inserting a wrong city name when searching for therapists, Psychology Today provides a list of suggestions as to what the user might have done wrong to yield the "No results found" page. This help and documentation provides users with a list of options on what to do next, an excellent feature of their website.
+
+![Heuristic10](https://github.com/brandonngo72/DH150-class/blob/master/Heuristic%20%2310.png)
+
+Still, there is no help page, and for a website that has a section to signup and login, it feels misleading to the user that there is not a place to sign up for a regular account. There should be a help link at the bottom next to the "About," "Privacy," and "Terms" links providing a general synopsis of frequently asked questions (such as "Can regular members sign up, or is it exclusive to health care professionals?").
+
