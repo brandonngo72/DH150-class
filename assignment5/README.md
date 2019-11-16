@@ -8,8 +8,10 @@ Psychology Today's mobile app would be ideally targeted to virtually all individ
 
 My goal is to interview any Gen-Z or Millennial individual that has any goal towards improving themselves and ask them to go to their favorite website and see what they like about the desktop version compared to the mobile version to see what information would be useful to include in the mobile app. I am strictly searching to find particular elements to include in the mobile app, as I think it is important to declutter all of the miscellaneous, extraneous information that can make the user experience much more uncomfortable. This evaluation will be comprehensive, as I will determine what the best way to present this information to individuals who will use the mobile app.
 
-Link to contextual inquiry guide:
+Link to contextual inquiry guide: https://docs.google.com/document/d/1dqkGY5pRSRZLR_7M4ha2BCT-JN7Ieoz3yWyvKN_oHu8/edit?usp=sharing
 
-Link to audio:
+Link to audio: https://www.dropbox.com/s/l9df1qf8krs7597/De%20Neve%20Commons%20Residential%20Restaurant.m4a?dl=0
 
-Link to transcript:
+Link to transcript: https://docs.google.com/document/d/1Yqz3GAb-HgblFtlCowB7_at-wmCjoBOZW3rZaXOvidk/edit?usp=sharing 
+
+Overall, Megan gave me more insight on what features she likes on the websites when she uses her desktop, and when she had discussed what was her mental process going on when she wanted to find specific information, it really gave me insight as to what and why people did what they did. Connecting this back to my mobile app, I am going to use this field study to guide a better, more optimized method of searching, which is comprehensive and allows users to see all results regarding that search query. Also, interviewing can take a turn sometimes, so it's important that you are able to help guide the interviewee to eensure everything goes smoothly.
